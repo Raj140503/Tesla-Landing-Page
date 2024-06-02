@@ -1,6 +1,6 @@
 # Tesla Landing Page using Tailwind
 
-## Steps for Installation Tailwind in VS Code :-
+## Steps for Installation Tailwind in VS Code -
 
 Step 1 - Open up the folder in VS code and Open Built-in Terminal By Pressing ‘CTRL + ~’ in windows and ‘CMD + ~’.
 
@@ -77,7 +77,7 @@ Step 11 - Testing Tailwind works or Not.
 ```
 
  
-## Setup Tailwind Build watcher Script
+## Setup Tailwind Build watcher Script -
 
 Step 1 -Open up the Package.json file and after the build:tailwind script add another script in the next line.
 
